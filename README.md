@@ -10,6 +10,7 @@ Giter8 template for generating a Play project boilerplate intended for in Scala 
     - social media providers (Google, Facebook etc);
     - role-based fine-grained authorization;
  * user profile.
+
 The project is backed by MySQL database.
 
 This project is intended for people who know how to use Play and want to get started right away creating an API.

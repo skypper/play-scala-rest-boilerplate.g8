@@ -1,0 +1,13 @@
+POST        /signUp                                controllers.SignUpController.submit
+
+POST        /signIn                                controllers.SignInController.submit
+
+GET         /signOut                               controllers.SignOutController.signOut
+
+GET         /account/activate/:token               controllers.ActivateAccountController.activate(token: java.util.UUID)
+
+POST        /authenticateToken/:provider           controllers.SocialAuthController.authenticateToken(provider)
+
+GET         /current                               controllers.UserManagerController.current
+
+PUT         /updateCurrent                         controllers.UserManagerController.updateCurrent

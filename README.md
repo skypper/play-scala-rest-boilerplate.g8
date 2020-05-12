@@ -11,7 +11,7 @@ Giter8 template for generating a Play project boilerplate intended for in Scala 
     - role-based fine-grained authorization;
  * user profile.
 
-The boilerplate is based on Slick and backed by MySQL database and uses Silhouette library for IAM.
+The boilerplate is based on Slick and backed by MySQL database and uses Silhouette library for security.
 
 This project is intended for people who know how to use Play and want to get started right away creating an API.
 

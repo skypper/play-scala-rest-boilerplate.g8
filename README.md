@@ -1,5 +1,7 @@
 # play-scala-rest-boilerplate.g8
 
+[![Build Status](https://travis-ci.com/skypper/play-scala-rest-boilerplate.g8.svg?branch=master)](https://travis-ci.com/skypper/play-scala-rest-boilerplate.g8)
+
 This project is a fork of [play-scala-seed.g8](https://github.com/playframework/play-scala-seed.g8).
 
 Giter8 template for generating a Play project boilerplate intended for in Scala with the latest libraries and contains basic functionality for REST APIs including:
